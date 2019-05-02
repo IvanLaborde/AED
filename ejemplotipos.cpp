@@ -1,3 +1,7 @@
+// Ejemplo Tipos
+// Hacer un programa incluyendo diveros tipos de valores/datos
+// Ivan Diego Laborde
+// 02/05/2019
 #include <iostream>
 using namespace std;
 	int a=-15;
